@@ -98,6 +98,11 @@ $('.owl-carousel').owlCarousel({
 	function closeNav() {
 	document.getElementById("Sidenav").style.width = "0";
 	}
+	
+	$("#emailbox .close").on("click", function() {
+		console.log("hi")
+		$("#emailToggle input").prop("checked", false)
+	})
 	</script>
 
 

@@ -23,7 +23,7 @@
 	<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
 	
 	<!-- Custom CSS -->
-    <link rel="stylesheet" type="text/css" href="https://tolve.co/wp-content/themes/arke-child/style.css">
+	<link rel="stylesheet" type="text/css" href="<?php echo get_stylesheet_directory_uri() ?>/style.css?v=1.2">
 	
 	
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
@@ -78,6 +78,8 @@ $(window).scroll(function() {
         $(".header").removeClass("darkHeader");
     }
 });
+
+
 </script>	
 	
 	

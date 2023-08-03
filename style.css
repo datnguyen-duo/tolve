@@ -754,16 +754,17 @@ span.link-icon-else img {
 	position: absolute;
 	right: 0;
 	top: 65px;
-	width:187px;
-	max-height: 40px;	
 	text-transform: uppercase;
 	text-align: center;
 	font-family: 'UntitledSans', sans-serif;
-	font-size: .95em;
 	letter-spacing: 1px;
 	margin: 20px 0 0 0;
 	border: 1px solid #111;	
 	/* padding: 12px;  */
+	right: 9px;
+	width: 141px;
+	max-height: 42px;
+	font-size: 1.1em;
   }
 
   #emailToggle input  {
@@ -851,9 +852,10 @@ span.link-icon-else img {
    */
   #emailbox
   { position: fixed;
-	top:94px;
+	/* top:94px; */
+	bottom: 0;
 	right:0;
-	z-index: 2;
+	z-index: 1000;
 	width: 220px;
 	min-height: 400px;
 	margin: -100px -10px 0 0;
@@ -867,19 +869,24 @@ span.link-icon-else img {
 	transform-origin: 0% 0%;
 	transform: translate(100%, 0);
 	transition: transform 0.5s cubic-bezier(0.77,0.2,0.05,0.9);
+	
   }
 
   @media screen and (max-width:767px){
 	#emailbox {
-		top: 140px;
+		/* top: 140px; */
 	}
+  }
+
+  #emailbox h5 {
+	margin-top: 0;
   }
 
   #emailbox .close {
 	width: 35px;
 	height: 35px;
 	position: relative;
-	margin: 1rem 0 -1.5rem auto;
+	margin: -2.5rem -1rem 2.5rem auto;
 	cursor: pointer;
   }
 
@@ -922,7 +929,9 @@ span.link-icon-else img {
   @media screen and (max-width: 767px) {
 	#emailToggle {
 		font-size: 0.8em;
-		width: unset;
+		right: 4px;
+		width: 118px;
+		max-height: 39px;
 	}
 }
 /* EMAIL POPOUT END */
@@ -2675,6 +2684,10 @@ section.light-trip h6 {
 	max-width: 11rem;
 }
 
+section.light-trip h6.right {
+	max-width: 100%;
+}
+
 section.light-trip h6 br {
 	display: none;
 }
@@ -2706,7 +2719,8 @@ section.phrase-banner {
 
 .book {
 	margin: 15px -5px 0 0;	
-	
+	width: 118px;
+	text-align: center;
 	}
 .book a {
 	padding: 10px;

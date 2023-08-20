@@ -1037,7 +1037,7 @@ section.testimonial .owl-carousel .owl-nav button.owl-prev {
 	position: absolute;
 	left: 30px;
 	top: 146px;
-	background-image: url("http://www.tolve.co/wp-content/themes/arke-child/assets/white-arrow.png");
+	background-image: url("https://www.tolve.co/wp-content/themes/arke-child/assets/white-arrow.png");
 	background-repeat: no-repeat;
 	align-items: center;
 	z-index: 5;
@@ -1058,7 +1058,7 @@ section.testimonial .owl-carousel .owl-nav button.owl-next {
 	position: absolute;
 	right: 30px;
 	top: 146px;
-	background-image: url("http://www.tolve.co/wp-content/themes/arke-child/assets/white-arrow.png");
+	background-image: url("https://www.tolve.co/wp-content/themes/arke-child/assets/white-arrow.png");
 	background-repeat: no-repeat;
 	transform: rotate(180deg);
 	align-items: center;

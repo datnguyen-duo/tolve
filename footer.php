@@ -41,7 +41,7 @@
 							<h4 class="footer-heading">CONTACT</h4>
 							<ul class="footer-menu-list">
 								<li><a href="contact">Get in Touch</a></li>
-								<li><a href="http://instagram.com/tolve.co" target="_blank">Instagram</a></li>
+								<li><a href="https://instagram.com/tolve.co" target="_blank">Instagram</a></li>
 								<li><a href="mailto:hello@tolve.co">hello@tolve.co</a></li>
 							</ul>
 						</div>

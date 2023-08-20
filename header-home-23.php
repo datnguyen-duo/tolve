@@ -6,7 +6,7 @@
  *
  * @package    Arke
  * @copyright  Copyright (c) 2018, Danny Cooper
- * @license    http://opensource.org/licenses/gpl-2.0.php GNU Public License
+ * @license    https://opensource.org/licenses/gpl-2.0.php GNU Public License
  */
 
 ?>
@@ -34,10 +34,10 @@
 
 	
 	<!-- Font- Awesome -->
-	<link rel="stylesheet" href="http://www.tolve.co/wp-content/themes/arke-child/css/all.css" >
+	<link rel="stylesheet" href="https://www.tolve.co/wp-content/themes/arke-child/css/all.css" >
 
 	<!-- Owl-carousel CSS -->
-	<link rel="stylesheet" href="http://www.tolve.co/wp-content/themes/arke-child/css/owl.carousel.css" >
+	<link rel="stylesheet" href="https://www.tolve.co/wp-content/themes/arke-child/css/owl.carousel.css" >
 	
 	<script>
 		
@@ -115,7 +115,7 @@ $(window).scroll(function() {
 		<li> <a href="https://tolve.co/">home</a></li>
       <li><a href="contact">get in touch</a></li>
 		<br/><br/>
-      <li> <a href="http://instagram.com/tolve.co" target="_blank"><img src="https://tolve.co/wp-content/themes/arke-child/assets/ig-19.png" ></a></li>
+      <li> <a href="https://instagram.com/tolve.co" target="_blank"><img src="https://tolve.co/wp-content/themes/arke-child/assets/ig-19.png" ></a></li>
     
     </ul>
   </div>

@@ -16,7 +16,7 @@
  *
  * @package    Arke
  * @copyright  Copyright (c) 2018, Danny Cooper
- * @license    http://opensource.org/licenses/gpl-2.0.php GNU Public License
+ * @license    https://opensource.org/licenses/gpl-2.0.php GNU Public License
  */
 
 

@@ -152,7 +152,7 @@ get_template_part( 'content' ); ?>
         </div>
       <?php endif; ?>
 
-      <h5>Experience Profile</h5>
+      <h6 style="margin-top: 4rem">EXPERIENCE PROFILE</h6>
       <span class="bar-thin">&nbsp;</span>
       <ul>
 

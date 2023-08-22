@@ -63,7 +63,7 @@ get_template_part( 'content' ); ?>
       <ul id="emailbox">
         <form
           method="post"
-          action="mailto:hello@tolve.co?subject=subject&message=message"
+          action="mailto:hello@tolve.co?subject=Question%20for%20Tolve"
         >
           <h5>Questions?</h5>
           <div class="close"></div>

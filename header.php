@@ -38,10 +38,10 @@
 
 	
 	<!-- Font- Awesome -->
-	<link rel="stylesheet" href="https://www.tolve.co/wp-content/themes/arke-child/css/all.css">
+	<link rel="stylesheet" href="https://tolve.co/wp-content/themes/arke-child/css/all.css">
 
 	<!-- Owl-carousel CSS -->
-	<link rel="stylesheet" href="https://www.tolve.co/wp-content/themes/arke-child/css/owl.carousel.css" >
+	<link rel="stylesheet" href="https://tolve.co/wp-content/themes/arke-child/css/owl.carousel.css" >
 
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.css" integrity="sha512-UTNP5BXLIptsaj5WdKFrkFov94lDx+eBvbKyoe1YAfjeRPC+gT5kyZ10kOHCfNZqEui1sxmqvodNUx3KbuYI/A==" crossorigin="anonymous" referrerpolicy="no-referrer" />

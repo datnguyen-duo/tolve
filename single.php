@@ -62,12 +62,12 @@ get_template_part( 'content' ); ?>
       -->
       <ul id="emailbox">
         <h5>Questions?</h5>
+        <div class="close"></div>
         <?php echo do_shortcode('[wpforms id="1923"]')?>
         <!-- <form
           method="post"
           action="mailto:hello@tolve.co?subject=Question%20for%20Tolve"
         >
-          <div class="close"></div>
           <h6 style="letter-spacing: 1px">Name</h6>
           <textarea
             type="text"

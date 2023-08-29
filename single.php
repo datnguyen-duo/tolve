@@ -61,11 +61,12 @@ get_template_part( 'content' ); ?>
       but hey, it's pure CSS magic.
       -->
       <ul id="emailbox">
-        <form
+        <h5>Questions?</h5>
+        <?php echo do_shortcode('[wpforms id="1923"]')?>
+        <!-- <form
           method="post"
           action="mailto:hello@tolve.co?subject=Question%20for%20Tolve"
         >
-          <h5>Questions?</h5>
           <div class="close"></div>
           <h6 style="letter-spacing: 1px">Name</h6>
           <textarea
@@ -95,7 +96,7 @@ get_template_part( 'content' ); ?>
           ></textarea>
 
           <input id="button-text" type="submit" value="Submit" />
-        </form>
+        </form> -->
       </ul>
     </div>
 

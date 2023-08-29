@@ -768,7 +768,7 @@ span.link-icon-else img {
 	font-weight: 300;
   }
 
-  #emailToggle input  {
+  #emailToggle > input  {
 	display: block;
 	position: absolute;
 	top: 0px;
